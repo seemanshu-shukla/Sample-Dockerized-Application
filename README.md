@@ -8,6 +8,8 @@
 docker pull seemanshushukla/welcome-to-dockerized-app
 ```
 
---> <img width="959" alt="image" src="https://user-images.githubusercontent.com/65499387/233840316-6c133c45-a3b5-4dc7-bfec-45be73e076ba.png">
+--> 
+
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/65499387/233840316-6c133c45-a3b5-4dc7-bfec-45be73e076ba.png">
 
 
